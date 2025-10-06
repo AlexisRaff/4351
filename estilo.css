@@ -1,0 +1,56 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.navbar-fondo {
+    background: rgb(85, 83, 83);
+    padding: 20px 15px;
+}
+
+.reviews {
+  background: #fff8f0;
+  padding: 50px 20px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.reviews h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: #6b0f1a;
+}
+
+.reviews-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.review-card {
+  background: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
+}
+
+.carousel-img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .carousel-img {
+    width: 70%;
+  }
+}
+
+.footer {
+  background: black;
+  color: #fff;
+  padding: 20px 15px;
+  font-family: 'Poppins', sans-serif;
+}
+
