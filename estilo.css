@@ -1,17 +1,17 @@
 * {
-    font-family: "Inter", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .navbar-fondo {
-    background: rgb(85, 83, 83);
-    padding: 20px 15px;
+  background: rgb(85, 83, 83);
+  padding: 20px 15px;
 }
 
 .reviews {
   background: #fff8f0;
   padding: 50px 20px;
   text-align: center;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .reviews h2 {
@@ -32,7 +32,7 @@
   background: #ffffff;
   border-radius: 15px;
   padding: 20px;
-  box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 .carousel-img {
@@ -46,11 +46,11 @@
     width: 70%;
   }
 }
-
 .footer {
   background: black;
   color: #fff;
   padding: 20px 15px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
+/*# sourceMappingURL=estilo.css.map */
